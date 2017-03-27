@@ -1,0 +1,5 @@
+---
+# defaults file for destroy-elb
+elb:
+  name   :
+  region :
